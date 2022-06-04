@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    padding: 0px 30px 30px 30px;
+    position: relative;
+    overflow-x: hidden;
+    overflow-y: visible;
+    background-color: #ffffff;
+}
